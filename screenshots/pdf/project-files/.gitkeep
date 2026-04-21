@@ -1,1 +1,6 @@
 
+git clone REPO_URL
+cd REPO_ADI
+git rm -r qovluq_adi
+git commit -m "remove accidental folder"
+git push
