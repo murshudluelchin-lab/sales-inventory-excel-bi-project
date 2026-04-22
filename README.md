@@ -62,17 +62,17 @@ A landing page with project summary, dashboard navigation, and project highlight
 ### 2. Executive Dashboard
 Provides a high-level business overview with KPI cards and performance visuals.
 
-![Executive Dashboard](screenshots/dashboards/executive-dashboard.png)
+![Executive Dashboard](screenshots/dashboards/executive-dashboard.png.png)
 
 ### 3. Inventory Dashboard
 Focuses on stock position, movement analysis, and low stock / out of stock risk.
 
-![Inventory Dashboard](screenshots/dashboards/inventory-dashboard.png)
+![Inventory Dashboard](screenshots/dashboards/inventory-dashboard.png.png)
 
 ### 4. Profitability Dashboard
 Shows gross profit, margin analysis, discount impact, and profitability drivers.
 
-![Profitability Dashboard](screenshots/dashboards/profitability-dashboard.png)
+![Profitability Dashboard](screenshots/dashboards/profitability-dashboard.png.png)
 
 ---
 
