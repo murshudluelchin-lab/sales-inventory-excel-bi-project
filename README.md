@@ -1,5 +1,3 @@
-# sales-inventory-excel-bi-project
-Excel BI project built with Power Query, Data Model, Power Pivot and DAX
 # Sales & Inventory Excel BI Project
 
 An Excel-based BI project built with **Power Query**, **Data Model**, **Power Pivot**, and **DAX**.
@@ -24,15 +22,15 @@ The focus of this project was not the size of the data, but the quality of the m
 - Power Pivot
 - DAX
 - PivotTables / PivotCharts
-- Slicers / Interactive filters
+- Slicers / Interactive Filters
 
 ## Dataset Snapshot
 
 - 220+ Products
 - 700+ Customers
-- 4,500+ Sales records
-- 3,000+ Inventory movement records
-- 3 interactive dashboards
+- 4,500+ Sales Records
+- 3,200+ Inventory Movement Records
+- 3 Interactive Dashboards
 
 ## Dashboards
 
@@ -84,4 +82,4 @@ The goal was to demonstrate Excel’s analytical and dashboard capabilities thro
 
 ## Author
 
-Created by **[Elchin Murshudlu]**
+Created by **Murshudlu Elchin**
