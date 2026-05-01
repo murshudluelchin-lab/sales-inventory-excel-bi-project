@@ -115,7 +115,7 @@ Core KPI and analytical measures used across dashboards.
 
 ## Files
 
-- [Excel Project File](project-files/Sales_Inventory_BI_Project.xlsx)
+- [Excel Project File](project-files/SI_BI_project.xlsx)
 - [PDF Preview](pdf/sales_inventory_bi_project_preview.pdf)
 - [Demo Video](demo-video/sales-inventory-demo.mp4)
 
